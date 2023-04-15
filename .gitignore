@@ -1,0 +1,7 @@
+/uploads
+/main
+/*.exe
+*.log
+node_modules
+/build
+*.syso
